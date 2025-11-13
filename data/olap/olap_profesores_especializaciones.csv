@@ -1,0 +1,269 @@
+id_profesor,nombre,carrera,id_area_especializacion,nombre_area
+AOGO940620,Oscar Daniel Acosta González,Lic. en Matemáticas Aplicadas y Computación,2483,Ciencia de datos
+AOGO940620,Oscar Daniel Acosta González,Lic. en Matemáticas Aplicadas y Computación,6142,Minería
+AOGO940620,Oscar Daniel Acosta González,Lic. en Matemáticas Aplicadas y Computación,4215,Bases de datos
+AOGO940620,Oscar Daniel Acosta González,Lic. en Matemáticas Aplicadas y Computación,4457,Programación
+AOGO940620,Oscar Daniel Acosta González,Lic. en Matemáticas Aplicadas y Computación,1501,Estadística
+AOGO940620,Oscar Daniel Acosta González,Lic. en Matemáticas Aplicadas y Computación,6107,Probabilidad
+AEZE690128,Ethelvina Alemán Zepeda,Economía,,
+AAMA690522,Armando Amador Molina,Matemáticas Aplicadas y Computación,,
+AALG610828,Gloria Elena Araiza Ledezma,,,
+BAGF600121,Federico Guillermo Bahena Gómez,Ingeniería en Sistemas Computacional,,
+BAME680626,Ernesto Baltazar Martínez,Matemáticas Aplicadas y Computación,5316,Algebra lineal
+BAME680626,Ernesto Baltazar Martínez,Matemáticas Aplicadas y Computación,6542,Cálculo
+BAME680626,Ernesto Baltazar Martínez,Matemáticas Aplicadas y Computación,4457,Programación
+BAGN901208,Nestor Daniel Barragán García,Enseñanza de inglés,,
+BAGJ980519,Juan Pablo Barrera Gutiérrez,Enseñanza de Inglés,,
+BAMR830604,José Roberto Bautista Mora,Matemáticas Aplicadas y Computación,,
+CAMO681201,Oscar Gabriel Caballero Martínez,,8157,Lenguajes de programación
+CAMO681201,Oscar Gabriel Caballero Martínez,,4457,Programación
+CAMO681201,Oscar Gabriel Caballero Martínez,,3275,Generación de material de apoyo con los sistemas algebraicos computacionales como: wolfram mathematica
+CAMO681201,Oscar Gabriel Caballero Martínez,,7655,Matlab
+CAMO681201,Oscar Gabriel Caballero Martínez,,8213,Maxima
+CAMO681201,Oscar Gabriel Caballero Martínez,,7430,Octave
+CAMO681201,Oscar Gabriel Caballero Martínez,,3247,Maple
+CAMO681201,Oscar Gabriel Caballero Martínez,,2992,R
+CART710228,Teresa Carrillo Ramírez,Matemáticas Aplicadas y Computación,9351,Lógica matemática
+CART710228,Teresa Carrillo Ramírez,Matemáticas Aplicadas y Computación,1755,Análisis numérico
+CART710228,Teresa Carrillo Ramírez,Matemáticas Aplicadas y Computación,4944,Tecnología educativa
+CART710228,Teresa Carrillo Ramírez,Matemáticas Aplicadas y Computación,9875,Enseñanza de las matemáticas
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,6578,Teóricos : matemáticas discretas
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,4142,Teoría de la computación
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,2210,Teoría de grupos
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,6748,Teoría de grafos
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,1863,Criptografía
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,6864,Prácticos-técnicos : bases de datos relaciones
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,2621,Bases de datos no relaciones
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,5487,Big data
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,9355,Arquitectura de datos
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,2862,Redes neuronales
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,1772,Orquestación de datos
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,4827,Arquitecturas
+CALJ960511,Josué Castañeda Landa,Matemáticas Aplicadas y Computación,1591,Teoría de dwh
+CAVS480916,Sergio Víctor Chapa Vergara,,,
+COCD960515,Diego Antonio Colín Castañeda,,,
+COVJ890703,Jesús Daniel Cordero Vázquez,Matemáticas Aplicadas y Computación,3402,Seguridad computacional
+COVJ890703,Jesús Daniel Cordero Vázquez,Matemáticas Aplicadas y Computación,3780,Explotación de binarios
+COVJ890703,Jesús Daniel Cordero Vázquez,Matemáticas Aplicadas y Computación,5028,Sistemas operativos
+COVJ890703,Jesús Daniel Cordero Vázquez,Matemáticas Aplicadas y Computación,4457,Programación
+COLJ840417,Jonathan Luis Cordoba Luna,,5049,Ingeniería de software
+COLJ840417,Jonathan Luis Cordoba Luna,,4215,Bases de datos
+CORW840831,Wendy Coronel Ramírez,Lienciatura en Física y Matemáticas,1473,Álgebra superior
+CORW840831,Wendy Coronel Ramírez,Lienciatura en Física y Matemáticas,8005,Álgebra lineal
+CORW840831,Wendy Coronel Ramírez,Lienciatura en Física y Matemáticas,3160,Cálculo i
+CORW840831,Wendy Coronel Ramírez,Lienciatura en Física y Matemáticas,1036,Cáculo ii
+CORW840831,Wendy Coronel Ramírez,Lienciatura en Física y Matemáticas,9050,Cálculo iii
+CORW840831,Wendy Coronel Ramírez,Lienciatura en Física y Matemáticas,5730,Geometría analítica
+COBJ550601,Juan José Cortés Buenrostro,,,
+CUAA691113,Ada Ruth Cuéllar Aguayo,,,
+CUGC660722,Carlos Pedro Curiel García,Ingeniería en Sistemas,9715,Métodos numéricos
+CUGC660722,Carlos Pedro Curiel García,Ingeniería en Sistemas,6542,Cálculo
+CUGC660722,Carlos Pedro Curiel García,Ingeniería en Sistemas,1501,Estadística
+CUGC660722,Carlos Pedro Curiel García,Ingeniería en Sistemas,6790,Informática
+CUGC660722,Carlos Pedro Curiel García,Ingeniería en Sistemas,3906,Sistemas
+CUGC660722,Carlos Pedro Curiel García,Ingeniería en Sistemas,5026,Tecnologías móviles
+DASA840605,Adriana Dávila Santos,,3095,Álgebra
+DASA840605,Adriana Dávila Santos,,9351,Lógica matemática
+DASA840605,Adriana Dávila Santos,,8167,Geometría
+TOOC670220,Celina Katya Del Toro Oblea,Matemáticas Aplicadas y Computación,,
+DEEC750724,Christian Carlos Delgado Elizondo,Matemáticas Aplicadas y Computación,,
+DEJG811217,Gabriel Delgado Juárez,Actuaría,,
+DOER750508,Ricardo Domínguez Esquerro,Matemáticas Aplicadas y Computación,2255,Base de datos
+DOER750508,Ricardo Domínguez Esquerro,Matemáticas Aplicadas y Computación,6195,Administración de base de datos
+DOER750508,Ricardo Domínguez Esquerro,Matemáticas Aplicadas y Computación,6369,Minería de datos e inteligencia de negocio
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,5786,Programación i
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,4706,Programación ii
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,8698,Programación orientada a objetos
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,9709,Estructura de datos
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,4215,Bases de datos
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,5049,Ingeniería de software
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,1865,Programación lógica
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,5976,Funcional
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,9399,Copiladores
+EAGG700425,Georgina Eslava García,Ciencias de la Computación.,9474,Programación con swift
+EUPM600614,Marco Antonio Esquivel Pichardo,Ingeniería de Investigación de Operaciones,,
+EAOF610828,Fernando Estrada Olivas,,,
+FISE670826,Elsa Frías Silver,,,
+FUCG870123,José Gustavo Fuentes Cabrera,Matemáticas Aplicadas y Computación,9200,Inteligencia artificial
+FUCG870123,José Gustavo Fuentes Cabrera,Matemáticas Aplicadas y Computación,2483,Ciencia de datos
+FUCG870123,José Gustavo Fuentes Cabrera,Matemáticas Aplicadas y Computación,6542,Cálculo
+FUCG870123,José Gustavo Fuentes Cabrera,Matemáticas Aplicadas y Computación,2673,Ecuaciones diferenciales
+FUCG870123,José Gustavo Fuentes Cabrera,Matemáticas Aplicadas y Computación,1501,Estadística
+GACJ841104,Jesús Gil Galindo Cuevas,Maestría en Ciencias Fisicomatemáticas,4582,Análisis hipercomplejo
+GACJ841104,Jesús Gil Galindo Cuevas,Maestría en Ciencias Fisicomatemáticas,6668,Teoría de operadores
+GACJ841104,Jesús Gil Galindo Cuevas,Maestría en Ciencias Fisicomatemáticas,9791,Desarrollo web
+GACJ841104,Jesús Gil Galindo Cuevas,Maestría en Ciencias Fisicomatemáticas,4215,Bases de datos
+GALJ840717,Julio César Galindo López,Ciencias Matemáticas,8383,Topología algebraica
+GALJ840717,Julio César Galindo López,Ciencias Matemáticas,4812,Geometría algebraica
+GALJ840717,Julio César Galindo López,Ciencias Matemáticas,2512,Probabilidad/estadística/machine learning/finanzas
+GACA661102,Antonio Gama Campillo,Ingenieria y/o Ciencias de la Educacion,8946,Tecnologías de la información
+GAEA670625,Armando García Espinosa,Matemáticas aplicadas y computación,,
+GAMR511114,Reyes Laurencio García Moncada,Ingeniería con especialidad en Calidad,,
+GAPA870527,Ana Karla García Pérez,,,
+GORG820104,Gustavo González Ramos,Licenciatura en Matemáticas,8167,Geometría
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,7669,-programación competitiva
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,4954,-sistemas fotovoltáicos
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,5499,-red nacional de videoconferencias
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,4676,-redes de datos
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,6728,-gobierno de ti
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,8442,-videoconferencia educativa
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,8996,-difusión de sistemas operativos libres
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,6898,-normativa de tic
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,2135,-datacenter
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,2667,-riu
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,7287,Ria
+GOTF730121,Fernando Israel González Trejo,Matemáticas Aplicadas y Computación,5714,-ciberseguridad
+GOVE630618,Efrén Pablo Héctor González Videgaray,Tecnologías de la Información y la Comunicación,4773,- organización
+GOVE630618,Efrén Pablo Héctor González Videgaray,Tecnologías de la Información y la Comunicación,2221,Arquitectura de computadoras
+GOVE630618,Efrén Pablo Héctor González Videgaray,Tecnologías de la Información y la Comunicación,3353,- redes de cómputo
+GOVE630618,Efrén Pablo Héctor González Videgaray,Tecnologías de la Información y la Comunicación,8232,- investigación
+GOVE630618,Efrén Pablo Héctor González Videgaray,Tecnologías de la Información y la Comunicación,4406,Modelos
+GOVE630618,Efrén Pablo Héctor González Videgaray,Tecnologías de la Información y la Comunicación,1142,Solución de problemas
+GUGM830917,Miguel Ángel Guadarrama García,Matemáticas,9907,Mi área de interés es geometría. principalmente geometría algebraica real
+GUGM830917,Miguel Ángel Guadarrama García,Matemáticas,5355,Geometría diferencial de curvas
+GUGM830917,Miguel Ángel Guadarrama García,Matemáticas,6769,Superficies. también estoy interesado en aplicaciones de estas áreas en optimización lineal
+GUGM830917,Miguel Ángel Guadarrama García,Matemáticas,7785,Semidefinida
+GUZF770926,Francisco Javier Guasco Zuñiga,Licenciatura en Enseñanza de Inglés,1363,-enseñanza de inglés
+GUZF770926,Francisco Javier Guasco Zuñiga,Licenciatura en Enseñanza de Inglés,7822,-uso de t.i.c. en aula
+GUZF770926,Francisco Javier Guasco Zuñiga,Licenciatura en Enseñanza de Inglés,5826,-uso de materiales audiovisuales para la clase de inglés
+GUCR840606,Rita Esmeralda Guerrero Cervantes,Matemáticas Aplicadas y Computación,,
+GUFR870327,Ricardo Guzman Fuentes,Maestría en Ciencias Matemáticas,8167,Geometría
+GUFR870327,Ricardo Guzman Fuentes,Maestría en Ciencias Matemáticas,1587,Topología geométrica
+GUFR870327,Ricardo Guzman Fuentes,Maestría en Ciencias Matemáticas,7651,Geometría hiperbólica
+GUFR870327,Ricardo Guzman Fuentes,Maestría en Ciencias Matemáticas,3848,Matemática educativa
+GUFR870327,Ricardo Guzman Fuentes,Maestría en Ciencias Matemáticas,5881,G-variedades
+HASV661111,Virginia Haro Sánchez,,,
+HEBA700708,Andrés Hernández Balderas,Matemáticas Aplicadas y Computación,4457,Programación
+HEBA700708,Andrés Hernández Balderas,Matemáticas Aplicadas y Computación,2202,Procesos estocásticos
+HEBA700708,Andrés Hernández Balderas,Matemáticas Aplicadas y Computación,8549,Simulación
+HEHN680606,Norma Hernández Hernández,,,
+HEMM730517,Mahil Herrera Maldonado,,,
+JABF880428,Francisco Guillermo Jauregui Ballesteros,Maestría en Ciencias Matemáticas,,
+LAHS550826,Silvia Larraza Hernández,,,
+LAAL590322,Luz María Lavín Alanís,Actuaría,,
+LAGA891021,Alberto Lazcano García,Matemáticas,,
+LAGR651117,Roberto Lazcano González,Ingeniería de Sistemas,,
+LOBC880131,Cristian Diego Iván López Barrera,Licenciatura en Enseñanza de Inglés,7829,Enseñanza
+LOBC880131,Cristian Diego Iván López Barrera,Licenciatura en Enseñanza de Inglés,9327,Adquisición de lenguas. lingüística
+LOBC880131,Cristian Diego Iván López Barrera,Licenciatura en Enseñanza de Inglés,7958,Traducción. tecnologías para la educación. docencia universitaria
+LOBA680401,Alma López Blanco,Matematicas Aplicadas y Computacion,,
+LOGJ710831,Jeanett López García,,,
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,9200,Inteligencia artificial
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,2406,Razonamiento cualitativo
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,5185,Ontologías
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,4880,Sistemas basados en conocimiento
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,7313,Sistemas expertos
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,3643,Web semántica
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,2178,Diseño
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,9921,Desarrollo de software en aplicaciones para computadoras
+LOPE821124,Eduardo Eloy Loza Pacheco,Doctorado en Ciencias de la Computación,3459,Aplicaciones web
+LOPD801225,Dulce Lourdes Loza Pacheco,,,
+MAAF701012,Fernando Manzanares Álvarez,Doctorado en Educación,,
+MAVG830303,Gerardo Gabriel Mares Velasco,Sociologia,,
+MAMX791017,María Eugenia Márquez Miquel,Letras Inglesas,,
+MAPJ701227,Joaquín Marquez Paz,,,
+MALD800624,Dyana Erika Marrón Luna,,,
+MAJS700627,Socorro Martínez José,Educación,7357,Calculo iv (vectorial)
+MAJS700627,Socorro Martínez José,Educación,2673,Ecuaciones diferenciales
+MAJS700627,Socorro Martínez José,Educación,5049,Ingeniería de software
+MAJS700627,Socorro Martínez José,Educación,9903,Elementos de análisis para las finanzas
+MAJS700627,Socorro Martínez José,Educación,5730,Geometría analítica
+MAJS700627,Socorro Martínez José,Educación,7743,Métodos numéricos i (sistemas lineales)
+MAJS700627,Socorro Martínez José,Educación,4357,Métodos numéricos ii (sistemas no lineales)
+MATE790202,Espartaco Martínez Tolentino,,,
+MATR620508,René Martínez Torres,Tecnologías de Información,,
+MEVN860520,Nancy Michelle Medina Valenzuela,Educación Basada en Competencias,,
+MEPA901025,José Alberto Meléndez Piña,Matemáticas,4426,Análisis
+MEPA901025,José Alberto Meléndez Piña,Matemáticas,1932,Física matemática
+MEPA901025,José Alberto Meléndez Piña,Matemáticas,6907,Matemáticas discretas
+MEPA901025,José Alberto Meléndez Piña,Matemáticas,8167,Geometría
+MEPA901025,José Alberto Meléndez Piña,Matemáticas,7087,Topología diferencial
+MEPA901025,José Alberto Meléndez Piña,Matemáticas,7540,Ciencias de la computación
+MEGM670120,Martín Mendieta González,Matemáticas Aplicadas y Computación,3855,Preferentemente el área de sistemas
+MEGM670120,Martín Mendieta González,Matemáticas Aplicadas y Computación,4457,Programación
+MEGM670120,Martín Mendieta González,Matemáticas Aplicadas y Computación,3664,Estructuras de datos
+MEGM670120,Martín Mendieta González,Matemáticas Aplicadas y Computación,9676,Manejo de bases de datos
+MEGM670120,Martín Mendieta González,Matemáticas Aplicadas y Computación,9715,Métodos numéricos
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,2241,Arquitectura
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,4457,Programación
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,4215,Bases de datos
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,1610,Bigdata
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,4098,Cloud
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,6170,Etl
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,8216,Desarrollo móvil
+MOFM841224,Miguel Ángel Moran Flores,Ingeniería en sistemas computacionales,2878,Gobernanza de datos
+MOBA700914,Anabel Moreno Baltazar,Matemáticas Aplicadas y Computación,9715,Métodos numéricos
+MOBA700914,Anabel Moreno Baltazar,Matemáticas Aplicadas y Computación,5140,Simulación estocástica
+MOBA700914,Anabel Moreno Baltazar,Matemáticas Aplicadas y Computación,6504,Optimización no lineal
+MOBA700914,Anabel Moreno Baltazar,Matemáticas Aplicadas y Computación,3967,Teoría de gráficas
+NOJM690814,Maritza Nova Juárez,Ingeniería,,
+NUGI860716,Israel Nuevo González,Licenciatura en Enseñanza de Inglés,,
+OURM681222,Mayra Olguín Rosas,,,
+OEGL750809,Leonardo Román Olmedo García,Maestría en Ciencias Matemáticas,3377,Estadística matemática
+OEGL750809,Leonardo Román Olmedo García,Maestría en Ciencias Matemáticas,6107,Probabilidad
+OEGL750809,Leonardo Román Olmedo García,Maestría en Ciencias Matemáticas,9440,Mineria de datos
+OOSN621031,Nemesio Orozco Sánchez,,,
+OIMS621210,Sandra Ortiz Mendoza,,,
+PAPJ850221,Juan Carlos Pacheco Paez,Doctorado en Ciencias Fisicomatematicas,,
+PAAD920128,David Bryan Padilla Alemán,Matemáticas Aplicadas y Computación,,
+QUAS670604,Sergio Quiroz Almaráz,Educación e investigación social,,
+QUEM850110,Mónica Quiroz Espinoza,Historia,5007,Historia política
+QUEM850110,Mónica Quiroz Espinoza,Historia,8458,Social
+QUEM850110,Mónica Quiroz Espinoza,Historia,7170,Cultural
+QUEM850110,Mónica Quiroz Espinoza,Historia,6843,Tecnológica
+QUEM850110,Mónica Quiroz Espinoza,Historia,3319,Derechos humanos
+QUEM850110,Mónica Quiroz Espinoza,Historia,3980,Procesal
+QUEM850110,Mónica Quiroz Espinoza,Historia,2857,Penal
+QUEM850110,Mónica Quiroz Espinoza,Historia,1688,Internacional público
+RAMJ691001,Jaime Ramírez Muñoz,,,
+REAJ660909,Juan Carlos Rendón Aguilar,Matemáticas Aplicadas y Computación,9715,Métodos numéricos
+REAJ660909,Juan Carlos Rendón Aguilar,Matemáticas Aplicadas y Computación,5369,Computación
+REAJ660909,Juan Carlos Rendón Aguilar,Matemáticas Aplicadas y Computación,6661,Business and predictive analytics
+REAJ660909,Juan Carlos Rendón Aguilar,Matemáticas Aplicadas y Computación,5487,Big data
+REAJ660909,Juan Carlos Rendón Aguilar,Matemáticas Aplicadas y Computación,1862,Data science
+REAJ660909,Juan Carlos Rendón Aguilar,Matemáticas Aplicadas y Computación,8015,Artificial intelligence
+REAJ660909,Juan Carlos Rendón Aguilar,Matemáticas Aplicadas y Computación,3209,Cloud computing
+REPA830902,Ana Marisol Resendiz Pizarro,Filosofía,,
+REMC890129,Claudia Cristina Reyes Montes de Oca,Actuaría,6107,Probabilidad
+REMC890129,Claudia Cristina Reyes Montes de Oca,Actuaría,2202,Procesos estocásticos
+REMC890129,Claudia Cristina Reyes Montes de Oca,Actuaría,7214,Finanzas matemáticas
+RICM680922,Mauricio Rico Castro,Matemáticas Aplicadas y Computación,2221,Arquitectura de computadoras
+RICM680922,Mauricio Rico Castro,Matemáticas Aplicadas y Computación,6396,Solución algorítmica de problemas
+ROHP790730,Paola Rochon Herrera,,,
+ROMG710402,Guadalupe Del Carmen Rodríguez Moreno,Maestría en Educación,,
+ROSS701007,Sergio Miguel Rosales Sánchez,Matemáticas Aplicadas y Computación,,
+ROHJ741021,Javier Rosas Hernández,Ciencias de la Computación..,,
+RUMC840702,Christian Rubio Montiel,Matemáticas,2369,Mis intereses de investigación es la matemática discreta
+RUMC840702,Christian Rubio Montiel,Matemáticas,8359,Concretamente la teoría cromática de gráficas
+RUMC840702,Christian Rubio Montiel,Matemáticas,4584,Geometría combinatoria
+RUMC840702,Christian Rubio Montiel,Matemáticas,7091,Geometría finita
+RUPA710717,Alejandro Roberto Rubio Pérez,Matemáticas Aplicadas y Computación,,
+SALH910811,Héctor Axel Saavedra Luis,Matemáticas,3095,Álgebra
+SALH910811,Héctor Axel Saavedra Luis,Matemáticas,2548,Análisis complejo
+SALH910811,Héctor Axel Saavedra Luis,Matemáticas,9351,Lógica matemática
+SEEE680811,Ernesto Sentíes Escalante,,,
+SOCL740820,María De Lourdes Soto Cortés,,,
+SOOA920604,Arturo Antonio Soto Osornio,,,
+SUGA621130,María Andrea Suárez García,Educación Matemática,6107,Probabilidad
+SUGA621130,María Andrea Suárez García,Educación Matemática,8536,Estadística i
+SUGA621130,María Andrea Suárez García,Educación Matemática,2915,Ingeniería ambiental
+SUGA621130,María Andrea Suárez García,Educación Matemática,4854,Química
+TAAM581115,María Tapia Aguilar,,,
+VAME460206,Esperanza Georgina Valdés y Medina,,,
+VASJ710902,Jorge Vasconcelos Santillan,Ciencias de la Computación,,
+VEPJ730726,Jaime Vergara Prado,,,
+VIQO930423,Oscar Vilchis Quintanar,LEI,4338,Alto conocimiento del idioma inglés
+VIQO930423,Oscar Vilchis Quintanar,LEI,3468,La traducción de español a inglés
+VIQO930423,Oscar Vilchis Quintanar,LEI,6504,Optimización no lineal
+VIQO930423,Oscar Vilchis Quintanar,LEI,1835,Acceso a paqueterías en línea para la educación
+VIQO930423,Oscar Vilchis Quintanar,LEI,1085,Aptitudes lingüísticas para la mejor adquisición de una l2
+VIQO930423,Oscar Vilchis Quintanar,LEI,7698,Su aprendizaje
+VICM720120,Mónica Zaima Víquez Cano,Maestría en Ciencias Matemáticas,8230,1. algebra lineal numérica
+VICM720120,Mónica Zaima Víquez Cano,Maestría en Ciencias Matemáticas,8890,2. herramientas analíticas en los negocios
+VICM720120,Mónica Zaima Víquez Cano,Maestría en Ciencias Matemáticas,4009,3. teoría de grafos
+VICM720120,Mónica Zaima Víquez Cano,Maestría en Ciencias Matemáticas,7951,4. estadística aplicada
+VICM720120,Mónica Zaima Víquez Cano,Maestría en Ciencias Matemáticas,2479,5. optimización no lineal en la solución de problemas a gran escala
+VICM720120,Mónica Zaima Víquez Cano,Maestría en Ciencias Matemáticas,2256,6. matemáticas discretas
+VICM720120,Mónica Zaima Víquez Cano,Maestría en Ciencias Matemáticas,9185,7. geometría
+VIMD600804,Domingo Vite Martínez,,,
+VIPJ861207,María Jimena Vivánco Pérez,Enseñanza de Inglés,,

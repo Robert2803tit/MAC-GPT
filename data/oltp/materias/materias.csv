@@ -1,0 +1,70 @@
+id_materia,nombre,archivo_pdf,id_semestre
+1106,ALGEBRA SUPERIOR,https://mac.acatlan.unam.mx/media/temarios/1644/1106.pdf,1
+1107,CALCULO I,https://mac.acatlan.unam.mx/media/temarios/1644/1107.pdf,1
+1111,ORGANIZACION DE COMPUTADORAS,https://mac.acatlan.unam.mx/media/temarios/1644/1111.pdf,1
+1112,PROGRAMACION I,https://mac.acatlan.unam.mx/media/temarios/1644/1112.pdf,1
+1113,SOLUCION ALGORITMICA DE PROBLEMA,https://mac.acatlan.unam.mx/media/temarios/1644/1113.pdf,1
+1208,LOGICA MATEMATICA,https://mac.acatlan.unam.mx/media/temarios/1644/1208.pdf,1
+1206,ALGEBRA LINEAL,https://mac.acatlan.unam.mx/media/temarios/1644/1206.pdf,2
+1207,CALCULO II,https://mac.acatlan.unam.mx/media/temarios/1644/1207.pdf,2
+1211,GEOMETRIA DEL ESPACIO,https://mac.acatlan.unam.mx/media/temarios/1644/1211.pdf,2
+1212,INGLES INTERMEDIO I,https://mac.acatlan.unam.mx/media/temarios/1644/1212.pdf,2
+1213,PROGRAMACION II,https://mac.acatlan.unam.mx/media/temarios/1644/1213.pdf,2
+1214,REDES DE COMPUTO,https://mac.acatlan.unam.mx/media/temarios/1644/1214.pdf,2
+1306,CALCULO III,https://mac.acatlan.unam.mx/media/temarios/1644/1306.pdf,3
+1309,PROGRAMACION ORIENTADA A OBJETOS,https://mac.acatlan.unam.mx/media/temarios/1644/1309.pdf,3
+1311,ESTRUCTURAS DE DATOS,https://mac.acatlan.unam.mx/media/temarios/1644/1311.pdf,3
+1312,INGLES INTERMEDIO II,https://mac.acatlan.unam.mx/media/temarios/1644/1312.pdf,3
+1313,METODOS NUMERICOS I,https://mac.acatlan.unam.mx/media/temarios/1644/1313.pdf,3
+1408,MATEMATICAS DISCRETAS,https://mac.acatlan.unam.mx/media/temarios/1644/1408.pdf,3
+1308,METODOS NUMERICOS II,https://mac.acatlan.unam.mx/media/temarios/1644/1308.pdf,4
+1310,TEORIA DE GRAFICAS,https://mac.acatlan.unam.mx/media/temarios/1644/1310.pdf,4
+1406,BASE DE DATOS,https://mac.acatlan.unam.mx/media/temarios/1644/1406.pdf,4
+1410,PROBABILIDAD,https://mac.acatlan.unam.mx/media/temarios/1644/1410.pdf,4
+1411,CALCULO IV,https://mac.acatlan.unam.mx/media/temarios/1644/1411.pdf,4
+1412,INGLES AVANZADO I,https://mac.acatlan.unam.mx/media/temarios/1644/1412.pdf,4
+1506,ECUACIONES DIFERENCIALES I,https://mac.acatlan.unam.mx/media/temarios/1644/1506.pdf,5
+1511,ESTADISTICA I,https://mac.acatlan.unam.mx/media/temarios/1644/1511.pdf,5
+1512,INGENIERIA DE SOFTWARE,https://mac.acatlan.unam.mx/media/temarios/1644/1512.pdf,5
+1513,INGLES AVANZADO II,https://mac.acatlan.unam.mx/media/temarios/1644/1513.pdf,5
+1514,OPTIMIZACION I,https://mac.acatlan.unam.mx/media/temarios/1644/1514.pdf,5
+1515,SEMINARIO SOBRE MEXICO ACTUAL,https://mac.acatlan.unam.mx/media/temarios/1644/1515.pdf,5
+1607,DESARROLLO WEB,https://mac.acatlan.unam.mx/media/temarios/1644/1607.pdf,6
+1608,ECUACIONES DIFERENCIALES II,https://mac.acatlan.unam.mx/media/temarios/1644/1608.pdf,6
+1610,PROCESOS ESTOCASTICOS,https://mac.acatlan.unam.mx/media/temarios/1644/1610.pdf,6
+1611,ESTADISTICA II,https://mac.acatlan.unam.mx/media/temarios/1644/1611.pdf,6
+1612,OPTIMIZACION II,https://mac.acatlan.unam.mx/media/temarios/1644/1612.pdf,6
+1613,SEM.SOBRE ETICA Y RESPONSAB.SOCI,https://mac.acatlan.unam.mx/media/temarios/1644/1613.pdf,6
+1036,ANALISIS DE ALGORITMOS,https://mac.acatlan.unam.mx/media/temarios/1644/1036.pdf,7
+1042,METODOS VARIACIONALES,https://mac.acatlan.unam.mx/media/temarios/1644/1042.pdf,7
+1044,SIMULACION ESTOCASTICA,https://mac.acatlan.unam.mx/media/temarios/1644/1044.pdf,7
+1045,SISTEMAS OPERATIVOS,https://mac.acatlan.unam.mx/media/temarios/1644/1045.pdf,7
+1049,ADMINISTRACION DE BASE DE DATOS,https://mac.acatlan.unam.mx/media/temarios/1644/1049.pdf,7
+1055,GRAFICACION POR COMPUTADORA,https://mac.acatlan.unam.mx/media/temarios/1644/1055.pdf,7
+1059,SISTEMAS INTELIGENTES,https://mac.acatlan.unam.mx/media/temarios/1644/1059.pdf,7
+1084,ANALISIS D DECIS.Y TEORIA D JUEG,https://mac.acatlan.unam.mx/media/temarios/1644/1084.pdf,7
+1085,ADMINISTR.Y SISTEMAS D CONTABILI,https://mac.acatlan.unam.mx/media/temarios/1644/1085.pdf,7
+1086,ELEMENTOS D FINANZAS E INVERSION,https://mac.acatlan.unam.mx/media/temarios/1644/1086.pdf,7
+1087,PROGRAMACION MULTIMEDIA,https://mac.acatlan.unam.mx/media/temarios/1644/1087.pdf,7
+1088,SISTEMAS DINAMICOS,https://mac.acatlan.unam.mx/media/temarios/1644/1088.pdf,7
+1089,TEMAS SELECTOS DE COMPUTACION I,https://mac.acatlan.unam.mx/media/temarios/1644/1089.pdf,7
+1090,TEMAS SELECTOS DE ESTADISTICA,https://mac.acatlan.unam.mx/media/temarios/1644/1090.pdf,7
+1091,TEMAS SELECTOS DE MATEMATICAS I,https://mac.acatlan.unam.mx/media/temarios/1644/1091.pdf,7
+1716,INVEST.EN MATEM.APLICAD.Y COMPUT,https://mac.acatlan.unam.mx/media/temarios/1644/1716.pdf,7
+1,TEMAS SELECTOS DE OPTIMIZACION,https://mac.acatlan.unam.mx/media/temarios/1644/1.pdf,8
+1041,METODOS NUMERIC.PARA ECUAC.DIFER,https://mac.acatlan.unam.mx/media/temarios/1644/1041.pdf,8
+1046,TEORIA DE LA COMPUTACION,https://mac.acatlan.unam.mx/media/temarios/1644/1046.pdf,8
+1048,ANALISIS DE FOURIER,https://mac.acatlan.unam.mx/media/temarios/1644/1048.pdf,8
+1050,BASE DE DATOS DISTRIBUIDA,https://mac.acatlan.unam.mx/media/temarios/1644/1050.pdf,8
+1062,ADMINISTRACION DE REDES,https://mac.acatlan.unam.mx/media/temarios/1644/1062.pdf,8
+1066,MINERIA DE DATOS,https://mac.acatlan.unam.mx/media/temarios/1644/1066.pdf,8
+1067,PROGRAMAC. PARALELA Y CONCURRENT,https://mac.acatlan.unam.mx/media/temarios/1644/1067.pdf,8
+1070,SEGURIDAD COMPUTACIONAL,https://mac.acatlan.unam.mx/media/temarios/1644/1070.pdf,8
+1092,CALIDAD Y CONFIABILIDAD D SISTEM,https://mac.acatlan.unam.mx/media/temarios/1644/1092.pdf,8
+1093,MODELOS ECONOMICOS,https://mac.acatlan.unam.mx/media/temarios/1644/1093.pdf,8
+1094,PRACTICA PROFESIONAL,https://mac.acatlan.unam.mx/media/temarios/1644/1094.pdf,8
+1095,PRONOSTICOS,https://mac.acatlan.unam.mx/media/temarios/1644/1095.pdf,8
+1096,PROYECTOS D TECNOLOGIA D INFORMA,https://mac.acatlan.unam.mx/media/temarios/1644/1096.pdf,8
+1097,TEMAS SELECTOS D ADMON.Y FINANZA,https://mac.acatlan.unam.mx/media/temarios/1644/1097.pdf,8
+1098,TEMAS SELECTOS DE COMPUTACION II,https://mac.acatlan.unam.mx/media/temarios/1644/1098.pdf,8
+1099,TEMAS SELECTOS DE MATEMATICAS II,https://mac.acatlan.unam.mx/media/temarios/1644/1099.pdf,8
